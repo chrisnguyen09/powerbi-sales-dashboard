@@ -26,7 +26,7 @@ This dashboard is designed for small businesses or entry-level data analysis, wi
 ## 📂 Files:
 - `Supermarket Sale Dashboard.pbix`: Main Power BI dashboard file.
 - `sales_data.xlsx`: Sample sales data used to build the dashboard (not included here for privacy, available upon request).
-- `dashboard_screenshot.png`: Overview of the dashboard visuals.
+- `salepowerbi.png`: Overview of the dashboard visuals.
 
 ---
 
